@@ -1,4 +1,7 @@
-# HANUMAN Jekyll Theme
+# Nkululeko Thangelane,
+## Personal Blog
+This is Nkululeko Thangelanens Personal Blog on code snipets, sample projects and cool stuff id like to share.
+
 
 [![Build Status](https://travis-ci.org/samanyougarg/hanuman.svg?branch=master)](https://travis-ci.org/samanyougarg/hanuman)
 
