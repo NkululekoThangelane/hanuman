@@ -2,7 +2,7 @@
 title: Nkululeko Thangelane
 description: Nkululeko Thangelane, Personal Blog.
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+logo: assets/images/logos.png
 favicon: assets/images/favicon.png
 baseurl: "/nkululekothangelane.github.io/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://nkululekothangelane.github.io/" # the base hostname & protocol for your site
