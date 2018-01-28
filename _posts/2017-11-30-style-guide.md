@@ -4,7 +4,7 @@ cover: 'assets/images/AI-brain-3.jpg'
 title: Welcome BLog
 date: 2018-01-30 04:00:00
 tags: guide
-author: Nkululeko Thangelanen
+author: Nkululeko Thangelane
 ---
 
 <p>Welcome to my blog on all things Data Science and Big Data. In this blog I will look at various code snippets and projects that I am working on. The world of data science is interesting and challenging at the same time. I intend to build this blogs in order to make it easier for other people. As a person I am interested in Artificial Intelligence and Machine Learning.</p>
