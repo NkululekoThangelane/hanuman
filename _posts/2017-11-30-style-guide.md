@@ -1,16 +1,13 @@
 ---
 layout: post
-cover: 'assets/images/shiva.jpg'
-title: Style Guide
-date: 2017-11-30 04:00:00
+cover: 'assets/images/AI-brain-3.jpg'
+title: Welcome BLog
+date: 2018-01-30 04:00:00
 tags: guide
-author: Author
+author: Nkululeko Thangelanen
 ---
 
-<p>This shows how you can use html styling to achieve your hopes.</p>
-
-
-<p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
+<p>Welcome to my blog on all things Data Science and Big Data. In this blog I will look at various code snippets and projects that I am working on. The world of data science is interesting and challenging at the same time. I intend to build this blogs in order to make it easier for other people. As a person I am interested in Artificial Intelligence and Machine Learning.</p>
 
 
 <hr />
